@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "1" ,
+        "nombre" : "Espada" ,
+        "precio" : "250",
+        "description" : "una espada re copada",
+        "daño" : "1d6",
+        "imagen": "espada.jpg"
+    },
+    {
+        "id" : "2" ,
+        "nombre" : "Arco" ,
+        "precio" : "150",
+        "description" : "un arco medio croto",
+        "daño" : "1d6",
+        "imagen": "arco.jpg"
+    },
+    {
+        "id" : "3" ,
+        "nombre" : "Daga" ,
+        "precio" : "100",
+        "description" : "una daga para cortar manteca",
+        "daño" : "1d4",
+        "imagen": "daga.jpg"
+    },
+    {
+        "id" : "4" ,
+        "nombre" : "Baston" ,
+        "precio" : "50",
+        "description" : "tranquilamente un palo para la escoba",
+        "daño" : "1d4",
+        "imagen": "baston.jpg"
+    }
+]
